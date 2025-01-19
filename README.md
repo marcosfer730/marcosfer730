@@ -5,9 +5,9 @@
   <img alt="Bem-vindo ao meu GitHub!" src="https://via.placeholder.com/1000x200.png?text=Bem-vindo+ao+meu+GitHub!">
 </picture>
 
-<h1 align="center">👋 Olá! Eu sou Marcos Vinícius</h1>
+<h1 align="center"><span style="color: blue;">👋 Olá! Eu sou Marcos Vinícius</span></h1>
 <p align="center">
-  Desenvolvedor Full Stack | Especialista em Engenharia de Dados
+  <span style="color: blue;">Desenvolvedor Full Stack | Especialista em Engenharia de Dados</span>
 </p>
 
 <div align="center">
@@ -16,22 +16,30 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 <span style="color: blue;">Sobre Mim</span>
 <p align="justify">
-Sou um desenvolvedor apaixonado por criar soluções escaláveis e eficientes, utilizando tecnologias modernas e aplicando boas práticas de desenvolvimento. Minha experiência abrange desde o **desenvolvimento de software** até a **segurança cibernética**.
+  <span style="color: blue;">Sou um desenvolvedor apaixonado por criar soluções escaláveis e eficientes, utilizando tecnologias modernas e aplicando boas práticas de desenvolvimento. Minha experiência abrange desde o <strong>desenvolvimento de software</strong> até a <strong>segurança cibernética</strong>.</span>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 <span style="color: blue;">Estatísticas do GitHub</span>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfer730&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfer730&layout=compact&langs_count=7&theme=dracula"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfer730&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfer730&layout=compact&langs_count=7&theme=blue"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ <span style="color: blue;">Tecnologias e Ferramentas</span>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -42,19 +50,27 @@ Sou um desenvolvedor apaixonado por criar soluções escaláveis e eficientes, u
 
 ---
 
-## 🌟 Projetos Destacados
+## 🌟 <span style="color: blue;">Projetos Destacados</span>
 <div align="center">
-  <a href="https://github.com/marcosfer730/projeto1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosfer730&repo=projeto1&theme=dracula" />
-  </a>
-  <a href="https://github.com/marcosfer730/projeto2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosfer730&repo=projeto2&theme=dracula" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/marcosfer730/projeto1">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosfer730&repo=projeto1&theme=blue" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/marcosfer730/projeto2">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosfer730&repo=projeto2&theme=blue" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📫 Contato
+## 📫 <span style="color: blue;">Contato</span>
 <div align="center">
   <a href="mailto:viniciosm730@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
