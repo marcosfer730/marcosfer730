@@ -1,11 +1,4 @@
-<!-- Banner Principal -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/1000x200.png?text=Bem-vindo+ao+meu+GitHub!">
-  <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/1000x200.png?text=Bem-vindo+ao+meu+GitHub!">
-  <img alt="Bem-vindo ao meu GitHub!" src="https://via.placeholder.com/1000x200.png?text=Bem-vindo+ao+meu+GitHub!">
-</picture>
-
-<h1 align="center"><span style="color: blue;">👋 Olá! Eu sou Marcos Vinícius</span></h1>
+<h1 align="center"><span style="color: blue;">👋 Olá! Bem Vindo!!!</span></h1>
 <p align="center">
   <span style="color: blue;">Desenvolvedor Full Stack | Especialista em Engenharia de Dados</span>
 </p>
