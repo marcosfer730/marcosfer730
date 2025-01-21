@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/marcosfer730/projeto1](https://github.com/marcosfer730/CONTROLE-DE-FROTA">
+        <a href="https://github.com/marcosfer730/CONTROLE-DE-FROTA">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosfer730&repo=projeto1&theme=blue" />
         </a>
       </td>
