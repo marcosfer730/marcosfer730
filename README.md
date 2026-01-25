@@ -1,6 +1,6 @@
-<h1 align="center"><span style="color: blue;">👋 Olá! Bem Vindo, Meu nome é Marcos.</span></h1>
+<h1 align="center"><span style="color: blue;">👋 Olá! Bem-vindo, meu nome é Marcos.</span></h1>
 <p align="center">
-  <span style="color: blue;">Desenvolvedor Full Stack | Especialista em Engenharia de Dados</span>
+  <span style="color: blue;">Desenvolvedor Full Stack | Engenharia de Dados | Infraestrutura & Cybersecurity | Heavens Studio</span>
 </p>
 
 <div align="center">
@@ -11,27 +11,16 @@
 
 ## 🚀 <span style="color: blue;">Sobre Mim</span>
 <p align="justify">
-  <span style="color: blue;">Sou um desenvolvedor apaixonado por criar soluções escaláveis e eficientes, utilizando tecnologias modernas e aplicando boas práticas de desenvolvimento. Minha experiência abrange desde o <strong>desenvolvimento de software</strong> até a <strong>segurança cibernética</strong>.</span>
+Desenvolvedor Full Stack com experiência sólida em desenvolvimento de software, engenharia de dados e infraestrutura de TI.
+
+Atuação com Python, Java, Kotlin, MongoDB, Docker e tecnologias web (HTML, CSS, JavaScript). Experiência prática em administração de servidores, redes, segurança da informação e automação de sistemas.
+
+Formação em Análise e Desenvolvimento de Sistemas, pós-graduação concluída em Engenharia de Dados e Engenharia de Software, com especializações em Inteligência Artificial e Machine Learning em andamento.
+
+Atuação profissional em ambientes críticos, com foco em performance, segurança, escalabilidade e boas práticas de desenvolvimento.
 </p>
 
 ---
-
-## 📊 <span style="color: blue;">Estatísticas do GitHub</span>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfer730&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfer730&layout=compact&langs_count=7&theme=blue"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🛠️ <span style="color: blue;">Tecnologias e Ferramentas</span>
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
@@ -59,17 +48,18 @@
     <tr>
       <td>
         <a href="https://github.com/marcosfer730/CONTROLE-DE-FROTA">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosfer730&repo=CONTROLE-DE-FROTA&theme=blue" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosfer730&repo=CONTROLE-DE-FROTA" />
         </a>
       </td>
       <td>
         <a href="https://github.com/marcosfer730/CONTROLE-DE-FINANCAS.git">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosfer730&repo=CONTROLE-DE-FINANCAS&theme=blue" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosfer730&repo=CONTROLE-DE-FINANCAS" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
