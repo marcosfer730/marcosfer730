@@ -9,6 +9,23 @@
 
 ---
 
+<h2 align="center">📊 <span style="color: white;">Estatísticas do GitHub</span></h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfer730&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfer730&layout=compact&langs_count=7&theme=transparent" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🚀 <span style="color: blue;">Sobre Mim</span>
 <p align="justify">
 Desenvolvedor Full Stack com experiência sólida em desenvolvimento de software, engenharia de dados e infraestrutura de TI.
